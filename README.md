@@ -9,14 +9,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -32,11 +24,10 @@
 
 - ☁️ I've keen interest in mobile technologies and cloud integration, and I'm exploring **Firebase and AWS Mobile Hub.**
 
-- 📝 I regularly share insights and tutorials on mobile development on [Hashnode](https://your-hashnode-url).
 
 - 💬 Ask me about **Kotlin, Flutter, Android Development, Firebase, and AWS.**
 
-- 📫 Feel free to reach me at **your-email@example.com**
+- 📫 Feel free to reach me at **muhammedrefaat2020@gmail.com**
 
 - 🏠 Don’t hesitate to drop a **👋** on Discord – [13abbycrow](https://discordapp.com/users/your-discord-id) my username!
 <!--Intro end-->
