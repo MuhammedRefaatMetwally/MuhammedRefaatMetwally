@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Mobile Development with Kotlin and Flutter.**
+- 🔭 I’m currently working on **Mobile Development with Android and Flutter.**
 
 - 🌱 I’m currently enhancing my skills in **cross-platform app development and advanced UI/UX design.**
 
