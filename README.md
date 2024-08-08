@@ -99,6 +99,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/MuhammedRefaatMetwally)
+Credit: [Muhammed Refaat](https://github.com/MuhammedRefaatMetwally)
 
 Last Edited on: 8/8/2024
