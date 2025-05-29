@@ -1,40 +1,38 @@
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Muhammed</h1></summary>
-  </ul>
-</div>
+# Muhammed Refaat - Software Engineer
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+Welcome to my profile. I am Muhammed Refaat, a software engineer with a strong focus on mobile development, particularly using Android and Flutter. Currently, I am actively engaged in projects that leverage these technologies while simultaneously deepening my expertise in cross-platform application development and advanced UI/UX design principles. My professional interests extend to the integration of mobile technologies with cloud services, and I am actively exploring solutions involving Firebase and AWS Mobile Hub to build scalable and robust mobile applications.
+
+I possess a solid understanding of Kotlin, Flutter, Android Development, Firebase, and AWS. I am always open to discussing these technologies or related software engineering topics. Please feel free to connect with me for collaboration or inquiries.
+
+---
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Mobile Development with Android and Flutter.**
+## Technical Skills
 
-- 🌱 I’m currently enhancing my skills in **cross-platform app development and advanced UI/UX design.**
+My technical expertise spans both mobile and fullstack development, including the following technologies:
 
-- ☁️ I've keen interest in mobile technologies and cloud integration, and I'm exploring **Firebase and AWS Mobile Hub.**
+**Mobile:** Android (Kotlin), Flutter
+**Frontend:** React, Angular, Next.js, HTML, CSS, JavaScript, TypeScript, Material UI
+**Backend:** Node.js, Express.js, NestJS, Python, Java
+**Databases:** MongoDB, PostgreSQL, MySQL, DynamoDB, Firebase Realtime Database/Firestore
+**Cloud & DevOps:** Firebase, AWS Mobile Hub, Docker, Git, GitHub
+**Other Tools:** Figma, Postman, VS Code
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,postgres,mysql,dynamodb,figma,firebase,github,html,java,js,materialui,mongodb,express,react,angular,nodejs,nextjs,nestjs,postman,py,redux,ts,vscode&perline=14" />
+  </a>
+</p>
+
+---
 
 
-- 💬 Ask me about **Kotlin, Flutter, Android Development, Firebase, and AWS.**
+## GitHub Statistics & Achievements
 
-- 📫 Feel free to reach me at **muhammedrefaat2020@gmail.com**
+Here is an overview of my activity and achievements on GitHub:
 
-- 🏠 Don’t hesitate to drop a **👋** on Discord – [13abbycrow](https://discordapp.com/users/your-discord-id) my username!
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -64,41 +62,21 @@
 <!--- trophy (start) -->
 
 
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,postgres,dynamodb,figma,firebase,github,html,java,js,materialui,mongodb,nextjs,postman,py,react,redux,ts,vscode&perline=14" />
-  </a>
 </p>
 
+---
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
 
-<!--icons and links-->
+## Connect With Me
+
+I am open to connecting and discussing potential collaborations or opportunities. You can reach me through the following channels:
+
+- **Email:** [muhammedrefaat2020@gmail.com](mailto:muhammedrefaat2020@gmail.com)
+- **LinkedIn:** [linkedin.com/in/muhammedrefaat](https://www.linkedin.com/in/muhammedrefaat)
+
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammedrefaat" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/muhammedrefaat" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-----------------------------------------------------------------------
-Credit: [Muhammed Refaat](https://github.com/MuhammedRefaatMetwally)
-
-Last Edited on: 8/8/2024
