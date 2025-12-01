@@ -136,14 +136,3 @@ ITI Graduation Project
 <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" />
 </a>
 </p>
-
----
-
-If you'd like, I can also:
-
-✅ Optimize it for hiring managers
-✅ Make a mobile-developer-only version
-✅ Add project GIFs & badges
-✅ Improve your GitHub portfolio structure
-
-Just tell me!
